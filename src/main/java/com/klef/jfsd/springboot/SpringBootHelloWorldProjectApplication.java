@@ -8,7 +8,7 @@ public class SpringBootHelloWorldProjectApplication
 {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootHelloWorldProjectApplication.class, args);
-		System.out.println("Hi Git ...");
+		System.out.println("Hi Git From Spring Boot");
 	}
 
 }
